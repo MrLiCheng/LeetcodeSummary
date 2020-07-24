@@ -37,7 +37,7 @@ class Solution {
         HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
         for(int i = 0; i < nums.length; i++){
             if(hm.containsKey(target - nums[i]))
-                return new int[]{i, hm.get(target-nums[i])};
+                return new int[] {i, hm.get(target - nums[i])};
             else hm.put(nums[i], i);
         }
         return new int[0];
