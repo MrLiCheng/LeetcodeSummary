@@ -3,11 +3,11 @@
 
 *如果你喜欢这个项目，请点击star<br/>*_If you like this project, please leave me a star._ &#9733;
 
-## Algorithms 算法题
+## 算法题 Algorithms
 
 |  #  |      题目     |   题解   | 难易度  | 标签                   
 |-----|----------------|---------------|-------------|------
-|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[Java](../master/src/main/java/com/MrLiCheng/LeetcodeSummary-Java/leetcode1.md)|Easy| HashMap
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[Java](../master/MrLiCheng/LeetcodeSummary-Java/leetcode1.md)|Easy| HashMap
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[Java](../master/src/main/java/com/MrLiCheng/LeetcodeSummary-Java/leetcode2.md) |Medium | 链表
 
 
