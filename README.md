@@ -9,8 +9,8 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|---------|------------|-----
 
 
-|  1  |   [Two Sum](https://leetcode-cn.com/problems/two-sum/)  |  Java  |   Easy  |  HashMap
+|   1   |    [Two Sum](https://leetcode-cn.com/problems/two-sum/)  |  Java  |   Easy  |  HashMap
  
-|  1  |   [Two Sum](https://leetcode.com/problems/two-sum/)  |  Java  |   Easy  |  HashMap
+|   1   |    [Two Sum](https://leetcode.com/problems/two-sum/)  |  Java  |   Easy  |  HashMap
 
 *如有问题，欢迎大家给我留言
