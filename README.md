@@ -1,9 +1,9 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) 
+# [LeetcodeSummary-JAVA](https://leetcode.com/problemset/algorithms/) 
 ![Language](https://img.shields.io/badge/language-Java%20%2F%20MySQL-blue.svg) 
 
 *_If you like this project, please leave me a star._ &#9733;<br/>*如果你喜欢这个项目，请点击star
 
-## Algorithms算法题
+## Algorithms 算法题
 
 |  #  |      Title     |   Solutions   |Difficulty  | Tag                   
 |-----|----------------|---------------|--------|-------------|-------------
