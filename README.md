@@ -7,8 +7,8 @@
 
 |  #  |      题目     |   题解   | 难易度  | 标签                   
 |-----|----------------|---------------|-------------|------
-|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[Java](../master/MrLiCheng/LeetcodeSummary-Java/leetcode1.md)|Easy| HashMap
-|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[Java](../master/src/main/java/com/MrLiCheng/LeetcodeSummary-Java/leetcode2.md) |Medium | 链表
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[Java](./Leetcode1-100/leetcode1.md)|Easy| HashMap
+|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[Java](./Leetcode1-100/leetcode2.md) |Medium | 链表
 
 
 *如有问题，欢迎大家通过邮箱联系我 <br/>*If you have any question, please contact me at byomg008@163.com
