@@ -9,7 +9,7 @@
 |-----|----------------|---------------|--------|-------------|-------------
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA](../master/src/main/java/com/fishercoder/solutions/_3.java) |Medium | HashMap, Sliding Window
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JAVA](../master/src/main/java/com/fishercoder/solutions/_2.java) |Medium | LinkedList
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JAVA](../master/src/main/java/com/fishercoder/solutions/_1.java)|Easy| HashMap 
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JAVA](../master/src/main/java/com/Leetcode1-100/Leetcode1)|Easy| HashMap 
 
 
 *如有问题，欢迎大家通过邮箱联系我 <br/>*If you have any question, please contact me at byomg008@163.com
