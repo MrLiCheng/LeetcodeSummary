@@ -6,7 +6,7 @@
 ## Algorithms 算法题
 
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
-|-----|----------------|---------------|--------|-------------|-------------
+|-----|----------------|---------------|-------------|------
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](../master/src/main/java/com/fishercoder/solutions/_1.java)|Easy| HashMap
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](../master/src/main/java/com/fishercoder/solutions/_2.java) |Medium | LinkedList
 
